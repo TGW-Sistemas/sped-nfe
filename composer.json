@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">= 7.4",
-        "tgw-sistemas/sped-common": "^5.1.0",
-        "tgw-sistemas/sped-gtin": "^1.1.0",
+        "tgw-sistemas/sped-common": "dev-master",
+        "tgw-sistemas/sped-gtin": "dev-master",
         "justinrainbow/json-schema": "^5.2",
         "ext-zlib": "*",
         "ext-dom": "*",
